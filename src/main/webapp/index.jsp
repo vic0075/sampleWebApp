@@ -13,7 +13,7 @@
 </ul>
 <p>Improve the page by including an image. </p>
 <p><img src="http://www.mygifs.com/CoverImage.gif" alt="A Great HTML Resource"></p>
-<p>Adding a link to my favorite <a href="https://www.dummies.com/">Web site</a>.
+<p>Adding a link to my favorite <a href="https://www.dummies.com/">Web site page</a>.
 Break up your page with a horizontal rule or two. </p>
 <hr>
 <p>Finally, link to <a href="page2.html">another page</a> in your own Web site.</p>
