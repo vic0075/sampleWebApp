@@ -10,9 +10,10 @@
 <ul>
 <li>Puhsed to Github using gitbash</li>
 <li>Then secondly retrieved in <i>jenkins</i> in the configurations</li>
+<li>Made anothrer commit</li>
 </ul>
 <p>Improve the page by including an image. </p>
-<p><img src=sub-image.jpg alt="A Great HTML Resource"></p>
+<p><img src=top.jpg alt="A Great HTML Resource"></p>
 <p>Adding a link to my favorite <a href="https://www.dummies.com/">Web site page</a>.
 Break up your page with a horizontal rule or two. </p>
 <hr>
